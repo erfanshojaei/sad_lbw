@@ -259,6 +259,7 @@ AddOutputFilter chunkFilter
 		<Item Name="send_data.vi" Type="VI" URL="../send_data.vi"/>
 		<Item Name="width_calc.vi" Type="VI" URL="../width_calc.vi"/>
 		<Item Name="width_claculation.vi" Type="VI" URL="../width_claculation.vi"/>
+		<Item Name="Untitled 1.vi" Type="VI" URL="../../Untitled 1.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="NI_Vision_Acquisition_Software.lvlib" Type="Library" URL="/&lt;vilib&gt;/vision/driver/NI_Vision_Acquisition_Software.lvlib"/>
